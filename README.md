@@ -1,2 +1,2 @@
 # PrepCourse-Henrry
-repositorio de prueva
+este proyecto es una prueva de como clonar git hap
